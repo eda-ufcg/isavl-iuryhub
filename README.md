@@ -1,8 +1,8 @@
 # Identificação
 
-* Nome: 
-* Email (@ccc): 
-* Matrícula: 
+* Nome: Iury RUan do Nascimento Santos
+* Email (@ccc): iury.ruan.do.nascimento.santos@ccc.ufcg.edu.br
+* Matrícula: 124110855
 
 # Roteiro: isAVL
 
